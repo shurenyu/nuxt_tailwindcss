@@ -56,7 +56,7 @@
           <div class="menu-name">Winston Lanni</div>
         </div>
         <div class="menu-item">
-          <img src="../assets/image/Profile03.png" alt="">
+          <img src="../assets/image/Profile04.svg" alt="">
           <div class="menu-name">Manuel Kriz</div>
         </div>
       </div>
@@ -83,9 +83,9 @@
               </div>
             </div>
             <div class="chat-item flex extra-data">
-              <img src="../assets/image/Profile14.png" alt="" class="avatar">
+              <img src="../assets/image/Profile01.png" alt="" class="avatar">
               <div class="pt-2">
-                <div class="name">Camilla Tunney <span>11:48</span></div>
+                <div class="name">Felix Levan <span>11:48</span></div>
                 <div class="message">Cool, I’ll let Market know.</div>
               </div>
             </div>
@@ -100,7 +100,7 @@
               </div>
             </div>
             <div class="chat-item flex mb-12">
-              <img src="../assets/image/Profile14.png" alt="" class="avatar">
+              <img src="../assets/image/Profile01.png" alt="" class="avatar">
               <div class="pt-2">
                 <div class="name">Felix Levan <span>11:52</span></div>
                 <div class="message">Cool, I’ll let Market know.</div>
@@ -117,9 +117,9 @@
               </div>
             </div>
             <div class="chat-item flex">
-              <img src="../assets/image/Profile14.png" alt="" class="avatar">
+              <img src="../assets/image/Profile01.png" alt="" class="avatar">
               <div class="pt-2">
-                <div class="name">Camilla Tunney <span>16:32</span></div>
+                <div class="name">Felix Levan <span>16:32</span></div>
                 <div class="message">Done!</div>
                 <div class="border p-4 rounded-sm flex items-center my-2">
                   <img src="../assets/image/icon-file.svg" alt="">
@@ -137,7 +137,8 @@
               <img src="../assets/image/Profile14.png" alt="" class="avatar">
               <div class="pt-2">
                 <div class="name">Camilla Tunney <span>17:05</span></div>
-                <div class="message">Looks awesome, thx! I’ll make sure Ernie pushes this asap. Market will be like.. super-duper happy.</div>
+                <div class="message">Looks awesome, thx! I’ll make sure Ernie pushes this asap. Market will be like..
+                  super-duper happy.</div>
               </div>
             </div>
           </div>
