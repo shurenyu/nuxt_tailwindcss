@@ -62,5 +62,6 @@ export default {
     preset: {
       stage: 1 // see https://tailwindcss.com/docs/using-with-preprocessors#future-css-featuress
     }
-  }
+  },
+  target: 'static'
 }
